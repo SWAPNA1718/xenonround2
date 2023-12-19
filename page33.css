@@ -1,0 +1,31 @@
+.mobile-section{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: pink;
+}
+.box{
+    border: 2px solid black;
+    height: 400px;
+    width: 22%;
+    display:inline-block;
+}
+
+body{
+    background-image: url('bbde.jpg');
+}
+
+.mob-img{
+    height: 300px;
+}
+
+.char-img{
+    height: 300px;
+}
+
+.acce-img{
+    height: 300px;
+}
+
+.dev-img{
+    height: 300px;
+}
